@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on the RPHelper Project
-- 🌱 I’m currently learning HTML, CSS, JS, React and ReactNative
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: yonolino@live.com
-- 😄 Pronouns: him/his/her
+- 😄 Pronouns: him/his/them
 - ⚡ Fun fact: i really love blue 💙
